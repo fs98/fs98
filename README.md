@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Fata's GitHub stats](https://github-readme-stats.vercel.app/api?username=fs98&show_icons=true&theme=radical)
+![Fata's GitHub stats](https://github-readme-stats.vercel.app/api?username=fs98&show_icons=true&theme=react)
