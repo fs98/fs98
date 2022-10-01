@@ -6,6 +6,6 @@
 
 - 😺 A cat person
 - 📚 A book lover
-- 🌱 Currently learning React
+- 🌱 Currently learning Node
 - ⚡ Fun fact: If I could have any superpower, it would be teleportation 🦸‍
 
