@@ -9,4 +9,4 @@
 - 🌱 Lately, I've been getting my hands dirty with Node. Learning new technologies and building projects is my happy place.
 - 🧩 I'm a Rubik's Cube enthusiast and I'm always working on improving my solve times.
 - 🌿 Unfortunately, I don't have the best track record when it comes to keeping plants alive. I've killed every houseplant I've ever owned, but I'm not giving up yet!
-- ⚡ Fun fact: If I could have any superpower, it would be teleportation. 🦸‍ Imagine being able to be anywhere in the world in a snap!
+- 🦸‍ Fun fact: If I could have any superpower, it would be teleportation. Imagine being able to be anywhere in the world in a snap!
