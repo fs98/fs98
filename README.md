@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Hi%20I'm%20fs98%20😺&fontColor=fff&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Hi%20I'm%20Fata%20😺&fontColor=fff&fontSize=40&animation=fadeIn)
 
 <div align="center">
 
-📍 Berlin · 🧠 Full-stack Developer · ☕ Code, Cats & Curiosity  
+📍 Berlin · 🧠 Software Developer
 
 </div>
 
@@ -10,12 +10,11 @@
 
 ### 👋 About Me
 
-- 😺 Cat person all the way — my feline coworker supervises every line of code.  
-- 📚 Book addict on a never-ending quest for *the* perfect read.  
-- 🌱 Currently wrestling with **Node.js**, because apparently I hate peace.  
+- 😺 Cat person all the way.
+- 📚 Book addict on a never-ending quest for *the* perfect read.
+- 🌱 Currently wrestling with **Python**, because apparently I hate peace.  
 - 🧩 Rubik’s Cube nerd, perpetually chasing a faster solve.  
 - 🌿 Plant serial killer trying to reform.  
-- 🦸‍♀️ Dream power: **Teleportation** — so I could skip airports *and* Monday meetings.
 
 ---
 
@@ -26,7 +25,7 @@
 
 ---
 
-![snake animation](https://github.com/fs98/fs98/blob/output/github-contribution-grid-snake.svg)
+![snake](https://fs98.github.io/fs98/github-contribution-grid-snake.svg)
 
 ---
 
