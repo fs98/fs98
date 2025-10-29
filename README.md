@@ -26,18 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=fs98&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fs98&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=fs98&theme=tokyonight)
-
-</div>
-
----
-
 ### 🐍 Contribution Snake  
 ![snake gif](https://github.com/fs98/fs98/blob/output/github-contribution-grid-snake.svg)
 
