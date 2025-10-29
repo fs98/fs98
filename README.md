@@ -10,3 +10,5 @@
 - 🧩 I'm a Rubik's Cube enthusiast and I'm always working on improving my solve times.
 - 🌿 Unfortunately, I don't have the best track record when it comes to keeping plants alive. I've killed every houseplant I've ever owned, but I'm not giving up yet!
 - 🦸‍ Fun fact: If I could have any superpower, it would be teleportation. Imagine being able to be anywhere in the world in a snap!
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20<YourName>&fontSize=40&animation=fadeIn)
