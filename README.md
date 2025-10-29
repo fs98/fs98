@@ -18,14 +18,13 @@
 
 ---
 
-### 🧰 Tech Playground
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,python,django,nodejs,postgres,graphql,git,linux,vscode" />
-</p>
+![snake](https://fs98.github.io/fs98/github-contribution-grid-snake.svg)
 
 ---
 
-![snake](https://fs98.github.io/fs98/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,python,django,nodejs,postgres,graphql,git,linux,vscode" />
+</p>
 
 ---
 
