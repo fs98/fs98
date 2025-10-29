@@ -30,13 +30,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 
 ---
 
 <div align="center">
-💬 Reach me on <a href="https://www.linkedin.com/in/fs98/">LinkedIn</a> or send a carrier pigeon 🕊️  
+💬 Reach me on <a href="https://www.linkedin.com/in/fata-sefer/">LinkedIn</a> or send a carrier pigeon 🕊️  
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F27121,50:E94057,100:8A2387&height=120&section=footer)
