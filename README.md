@@ -1,14 +1,50 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Hi%20I'm%20fs98%20😺&fontColor=fff&fontSize=40&animation=fadeIn)
 
+<div align="center">
 
-<!-- **fs98/fs98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+📍 Berlin · 🧠 Full-stack Developer · ☕ Code, Cats & Curiosity  
 
-<!-- Here are some ideas to get you started: -->
+</div>
 
-- 😺 Cat person all the way! My fluffy feline friend is the best company while coding.
-- 📚 When I'm not coding, you'll probably find me with my nose buried in a good book. I am always looking for a great new read. Have any recommendations?
-- 🌱 Lately, I've been getting my hands dirty with Node. Learning new technologies and building projects is my happy place.
-- 🧩 I'm a Rubik's Cube enthusiast and I'm always working on improving my solve times.
-- 🌿 Unfortunately, I don't have the best track record when it comes to keeping plants alive. I've killed every houseplant I've ever owned, but I'm not giving up yet!
-- 🦸‍ Fun fact: If I could have any superpower, it would be teleportation. Imagine being able to be anywhere in the world in a snap!
+---
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20<YourName>&fontSize=40&animation=fadeIn)
+### 👋 About Me
+
+- 😺 Cat person all the way — my feline coworker supervises every line of code.  
+- 📚 Book addict on a never-ending quest for *the* perfect read.  
+- 🌱 Currently wrestling with **Node.js**, because apparently I hate peace.  
+- 🧩 Rubik’s Cube nerd, perpetually chasing a faster solve.  
+- 🌿 Plant serial killer trying to reform.  
+- 🦸‍♀️ Dream power: **Teleportation** — so I could skip airports *and* Monday meetings.
+
+---
+
+### 🧰 Tech Playground
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,python,django,nodejs,postgres,graphql,git,linux,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=fs98&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fs98&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=fs98&theme=tokyonight)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake  
+![snake gif](https://github.com/fs98/fs98/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+💬 Reach me on <a href="https://www.linkedin.com/in/fs98/">LinkedIn</a> or send a carrier pigeon 🕊️  
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F27121,50:E94057,100:8A2387&height=120&section=footer)
